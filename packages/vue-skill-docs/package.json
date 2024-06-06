@@ -1,0 +1,15 @@
+{
+  "name": "vue-skill-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.9.10",
+    "vue": "^2.7.16",
+    "vue-server-renderer": "^2.7.16"
+  }
+}
