@@ -12,6 +12,4 @@ pnpm i -r or pnpm recursive install
 pnpm --filter package-a run start
 ```
 
-AAA
-
-BBB
+CCC
