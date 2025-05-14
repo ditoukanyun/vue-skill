@@ -6,6 +6,10 @@
   "workspaces": [
     "packages/*"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ditoukanyun/vue-skill"
+  },
   "scripts": {
     "start:vue3-skill": "pnpm --filter vue3-skill run dev",
     "start:docs": "pnpm --filter vue-skill-docs run docs:dev"
